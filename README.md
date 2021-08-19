@@ -1,4 +1,4 @@
-# PRF192 - Assignment 3 - Manager Tax
+# PRF192 - Assignment 3 - Tax Manager
 
 @ Author: DucPTM
 
